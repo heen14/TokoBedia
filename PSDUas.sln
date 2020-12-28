@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSDUas", "PSDUas\PSDUas.csproj", "{B696C291-56B1-4896-BE47-507CD48FF6B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B696C291-56B1-4896-BE47-507CD48FF6B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B696C291-56B1-4896-BE47-507CD48FF6B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B696C291-56B1-4896-BE47-507CD48FF6B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B696C291-56B1-4896-BE47-507CD48FF6B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {239E4957-3BD1-4972-B7A2-20D6E35B9F34}
+	EndGlobalSection
+EndGlobal
